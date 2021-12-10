@@ -1,2 +1,3 @@
 module.exports = {
-    publicPath: '/myToDoApp/'}
+    publicPath: '/myToDoApp/'
+}
